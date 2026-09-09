@@ -1,13 +1,6 @@
-pandas #데이터 분석용
-openpyxl # 데이터 전처리용
-selenium # 크롤링용
-pymysql # mysql driver용
-streamlit # 웹앱서비스용
-SQLAlchemy # streamlit용 ORM 라이브러리
-mysqlclient # streamlit용 mysql driver
-plotly # 차트 시각화용
-jupyter # python을 이용해서 mysql test를 진행하는 목적
-folium # 지도 시각화용 라이브러리
-streamlit-folium # streamlit에서 folium 사용을 위한 라이브러리
-altair # 차트 시각화용 라이브러리
-cryptography # MySQL 암호화 인증을 위한 패키지
+pandas
+openpyxl
+streamlit
+sqlalchemy
+pymysql
+plotly

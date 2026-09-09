@@ -1,0 +1,14 @@
+# Local secrets
+.streamlit/secrets.toml
+.env
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated warehouse files
+output/warehouse/
+
+# Local development files
+.vscode/
